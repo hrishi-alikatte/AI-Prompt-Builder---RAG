@@ -96,6 +96,9 @@ Generated Prompt:
 "Write a detailed guide on improving writing skills, focusing on techniques for creativity, sentence structure, and engaging storytelling."
 Enhanced Prompt:
 "Generate a comprehensive tutorial for aspiring writers. Include tips on brainstorming ideas, using vivid language, crafting compelling plots, and overcoming writer's block."
+
+## <img width="995" alt="Screenshot 2025-04-10 at 3 11 16 PM" src="https://github.com/user-attachments/assets/f24154dc-6965-43e8-8470-a21585c3f310" />
+
 🔧 Dependencies
 
 Python 3.7+
