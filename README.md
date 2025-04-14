@@ -33,4 +33,15 @@ This project implements a **prompt engineering system** that automatically creat
 
 ## 📁 Project Structure
 
+## 🛠️ Installation
+
+To get started, clone the repository and install the dependencies:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/prompt-engineering.git
+cd prompt-engineering
+
+
 
