@@ -69,17 +69,6 @@ Here’s the full content for your README.md file, ready to be copied and pasted
 
 prompt-engineering/ ├── data/ # Data storage for prompt vector database ├── scripts/ # Scripts for semantic search, analysis, and prompt generation ├── models/ # Pretrained models for prompt enhancement (TinyLlama, Phi-2) ├── app/ # User interface built with Gradio ├── requirements.txt # Python dependencies └── README.md # Project documentation
 
-## 🛠️ Installation
-
-To get started, clone the repository and install the dependencies:
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/prompt-engineering.git
-cd prompt-engineering
-```
-
 ## Install the required dependencies:
 pip install -r requirements.txt
 Set up Milvus for vector storage (refer to the data/ directory for setup instructions).
