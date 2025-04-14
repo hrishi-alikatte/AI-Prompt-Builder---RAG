@@ -11,3 +11,5 @@ This project aims to build a **Retrieval-Augmented Generation (RAG)-based Prompt
 - 🧠 **Dynamic Prompting**: Generate prompts tailored to specific use cases such as question answering, summarization, or content generation.
 - 🌐 **Web Scraping & Knowledge Base Integration**: Fetch data from various sources (e.g., websites, PDFs) for prompt creation.
 - 💡 **End-to-End Pipeline**: From data ingestion to generating final AI prompts using a seamless, scalable workflow.
+  <img width="829" alt="Screenshot 2025-04-14 at 3 19 12 PM" src="https://github.com/user-attachments/assets/f5b43fbb-3e31-4ad0-a072-a382f109e8ca" />
+
